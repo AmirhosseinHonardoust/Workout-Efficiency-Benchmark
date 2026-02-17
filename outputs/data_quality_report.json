@@ -1,0 +1,17 @@
+{
+  "rows": 2600,
+  "missing_visit_date": 0,
+  "missing_check_in_time": 0,
+  "absent_with_activity_rows": 1350,
+  "absent_with_activity_rate": 0.5192307692307693,
+  "present_rows_used": 1250,
+  "present_rate_used": 0.4807692307692308,
+  "missingness_present": {
+    "workout_type": 0.0,
+    "gender": 0.0,
+    "membership_type": 0.0,
+    "age": 0.0,
+    "workout_duration_minutes": 0.0,
+    "calories_burned": 0.0
+  }
+}

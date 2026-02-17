@@ -1,0 +1,13 @@
+{
+  "input_path": "data/raw/daily_gym_attendance_workout_data.csv",
+  "rows_raw": 2600,
+  "rows_present_used": 1250,
+  "present_rate_used": 0.4807692307692308,
+  "figures_dir": "reports\\figures",
+  "outputs_dir": "outputs",
+  "notes": {
+    "interpretation": "These gaps are descriptive and fairness-aware: they show when global benchmarks can be misleading. They do NOT prove physiological causality. Large gaps suggest stratified benchmarks or controlled comparisons (workout type, time-of-day, membership mix).",
+    "effect_size": "Cliff's delta is a distribution-aware effect size. Rough guide: |delta| < 0.147 negligible, < 0.33 small, < 0.474 medium, otherwise large.",
+    "low_sample": "Rows flagged as low_sample are unstable. Increase sample size or aggregate categories."
+  }
+}
