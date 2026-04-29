@@ -12,7 +12,7 @@
 <p align="center">
   A decision-safe benchmarking report for gym activity data: <b>efficiency</b>, <b>distributions</b>, <b>segment gaps</b>, and <b>data quality</b>, shipped as a reproducible pipeline + a Streamlit dashboard.
 </p>
-
+ 
 </div>
 
 ---
