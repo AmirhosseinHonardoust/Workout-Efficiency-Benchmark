@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import pandas as pd
   
- 
+  
 def workout_type_benchmarks(df_present: pd.DataFrame) -> pd.DataFrame:
     """
     Build a benchmark table per workout_type using robust + interpretable stats.
