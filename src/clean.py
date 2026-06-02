@@ -1,10 +1,10 @@
 from __future__ import annotations
-                                    
+
 from dataclasses import dataclass
-                                      
+
 import pandas as pd
-                                                                   
-                                                             
+                                       
+
 @dataclass
 class CleanResult:
     df_raw: pd.DataFrame
