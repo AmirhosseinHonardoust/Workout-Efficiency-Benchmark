@@ -15,7 +15,7 @@ from .plots import (
     plot_efficiency_by_workout_type,
     plot_heatmap_efficiency_workout_gender,
 )
-                                                       
+                                                                                             
                                 
 def run(input_path: str, out_dir: str, figures_dir: str) -> dict:
     input_path = str(input_path)
