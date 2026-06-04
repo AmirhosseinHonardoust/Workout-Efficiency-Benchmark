@@ -5,8 +5,8 @@ from typing import Dict, Tuple
                                                                                                     
 import numpy as np
 import pandas as pd
-                                                   
-                                                        
+                                                                               
+                                                                                                      
 def cliffs_delta(a: np.ndarray, b: np.ndarray) -> float:
     """
     Cliff's delta: probability that a random draw from a is greater than b
